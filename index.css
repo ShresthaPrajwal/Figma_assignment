@@ -596,7 +596,7 @@ nav ul li a {
 @media (max-width: 768px) {
   .terminal,
   .universal-div {
-    width: 90%;
+    width: 70%;
     padding: 1rem;
   }
 
@@ -626,8 +626,7 @@ nav ul li a {
 @media (max-width: 480px) {
   .terminal,
   .universal-div {
-    width: 100%;
-    padding: 0.5rem;
+    width: 90%;
   }
 
   .terminal p {
